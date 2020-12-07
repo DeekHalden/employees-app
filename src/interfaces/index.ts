@@ -1,0 +1,1 @@
+export type { IEmployeeModel } from './Employee';
