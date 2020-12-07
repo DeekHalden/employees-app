@@ -1,4 +1,2 @@
-https://spa-github-pages.rafgraph.dev/
-https://spa-github-pages.rafgraph.dev/?/example
-https://spa-github-pages.rafgraph.dev/?/example/two-deep&field1=foo~and~field2=bar#boom!
-https://spa-github-pages.rafgraph.dev/?/sitemap-link-generator
+https://unruffled-blackwell-345ad0.netlify.app/
+https://unruffled-blackwell-345ad0.netlify.app/employees

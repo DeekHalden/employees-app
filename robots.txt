@@ -1,1 +1,1 @@
-Sitemap: https://spa-github-pages.rafgraph.dev/sitemap.txt
+Sitemap: https://unruffled-blackwell-345ad0.netlify.app/
