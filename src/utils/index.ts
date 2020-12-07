@@ -1,1 +1,0 @@
-export { alphabet } from './alphabet' 
